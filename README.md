@@ -26,7 +26,7 @@ Display:
   Display the entire linked list structure with detailed visualization of stacks and queues.
 
 To use this implementation:
-git clone https://github.com/CapMushi/Linked-List-Stacks-Queues.git
+git clone https://github.com/CapMushi/Linked-List-Stacks-Queues-.git
 
 Compile and run the main program (main.cpp).
 g++ main.cpp -o main
